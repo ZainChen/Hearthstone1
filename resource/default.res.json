@@ -1,0 +1,70 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,rouge_png,shaman_png,w1_png,e1_png,e2_png,e3_png,w2_png,w3_png,cpf_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/rouge.png",
+			"type": "image",
+			"name": "rouge_png"
+		},
+		{
+			"url": "assets/shaman.png",
+			"type": "image",
+			"name": "shaman_png"
+		},
+		{
+			"url": "assets/w1.png",
+			"type": "image",
+			"name": "w1_png"
+		},
+		{
+			"url": "assets/e1.png",
+			"type": "image",
+			"name": "e1_png"
+		},
+		{
+			"url": "assets/e2.png",
+			"type": "image",
+			"name": "e2_png"
+		},
+		{
+			"url": "assets/e3.png",
+			"type": "image",
+			"name": "e3_png"
+		},
+		{
+			"url": "assets/w2.png",
+			"type": "image",
+			"name": "w2_png"
+		},
+		{
+			"url": "assets/w3.png",
+			"type": "image",
+			"name": "w3_png"
+		},
+		{
+			"url": "assets/cpf.png",
+			"type": "image",
+			"name": "cpf_png"
+		}
+	]
+}
